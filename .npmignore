@@ -1,0 +1,10 @@
+/src
+
+.gitignore
+tsconfig.json
+.eslintrc.js
+
+__tests__
+*.test.*
+
+docs-src

@@ -1,0 +1,44 @@
+{
+  "name": "react-native-toast-alerts",
+  "version": "1.0.0",
+  "description": "A customizable toast notification library for React Native",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hovecapital/react-native-toast-alerts.git"
+  },
+  "keywords": [
+    "react-native",
+    "toast",
+    "notification",
+    "alert",
+    "message"
+  ],
+  "author": "Hove Capital",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hovecapital/react-native-toast-alerts/issues"
+  },
+  "homepage": "https://github.com/hovecapital/react-native-toast-alerts#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0",
+    "react-native-safe-area-context": ">=3.0.0"
+  },
+  "dependencies": {
+    "zustand": "^4.4.1"
+  },
+  "devDependencies": {
+    "@types/react": ">=18.0.0",
+    "@types/react-native": ">=0.69.0",
+    "typescript": "^5.1.6"
+  }
+}
