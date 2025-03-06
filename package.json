@@ -1,5 +1,5 @@
 {
-  "name": "react-native-toast-alerts",
+  "name": "@hovecapital/react-native-toast-alerts",
   "version": "1.0.0",
   "description": "A customizable toast notification library for React Native",
   "main": "lib/index.js",
