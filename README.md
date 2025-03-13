@@ -34,7 +34,7 @@ yarn add react-native-safe-area-context
 1. Wrap your app with `ToastProvider`:
 
 ```tsx
-import { ToastProvider } from '@hovecapital/react-native-toast-alerts  ';
+import { ToastProvider } from '@hovecapital/react-native-toast-alerts';
 
 const App = () => {
   return (
