@@ -15,7 +15,11 @@ A customizable toast notification library for React Native that provides an easy
 
 ```bash
 npm install @hovecapital/react-native-toast-alerts
-# or
+```
+
+or
+
+```bash
 yarn add @hovecapital/react-native-toast-alerts
 ```
 
@@ -25,7 +29,11 @@ This library requires the following peer dependencies:
 
 ```bash
 npm install react-native-safe-area-context
-# or
+```
+
+or
+
+```bash
 yarn add react-native-safe-area-context
 ```
 
