@@ -14,9 +14,9 @@ A customizable toast notification library for React Native that provides an easy
 ## Installation
 
 ```bash
-npm install react-native-toast-alerts
+npm install @hovecapital/react-native-toast-alerts
 # or
-yarn add react-native-toast-alerts
+yarn add @hovecapital/react-native-toast-alerts
 ```
 
 ### Peer Dependencies
@@ -34,7 +34,7 @@ yarn add react-native-safe-area-context
 1. Wrap your app with `ToastProvider`:
 
 ```tsx
-import { ToastProvider } from 'react-native-toast-alerts';
+import { ToastProvider } from '@hovecapital/react-native-toast-alerts  ';
 
 const App = () => {
   return (
@@ -75,7 +75,7 @@ const MyComponent = () => {
 You can customize the appearance of the toasts by passing a `styles` prop to the `ToastProvider`:
 
 ```tsx
-import { ToastProvider } from 'react-native-toast-alerts';
+import { ToastProvider } from '@hovecapital/react-native-toast-alerts';
 
 const App = () => {
   const customStyles = {
