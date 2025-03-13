@@ -14,11 +14,11 @@ export type {
   ToastStyles,
   ToastContextType,
   ToastProviderProps,
-} from "./../src/components/types";
+} from "./components/types";
 
 // Export styles
 export {
   createDefaultStyles,
   defaultColors,
   defaultTheme,
-} from "./../src/components/styles/defaultStyles";
+} from "./components/styles/defaultStyles";
